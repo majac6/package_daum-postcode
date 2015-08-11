@@ -1,6 +1,6 @@
 Package.describe({
   name: 'majac:daum-postcode',
-  version: 'v2',
+  version: '0.0.2',
   // Brief, one-line summary of the package.
   summary: 'korea address finder - daum APIs',
   // URL to the Git repository containing the source code for this package.
